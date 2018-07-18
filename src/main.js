@@ -8,8 +8,8 @@ class Main extends React.Component {
     return (
       // React.Fragment is how we can wrap JSX elements without riddling the DOM with unnecesary divs
       <React.Fragment>
+        <h1>Devvit</h1>
         <App />
-        <h1>We here</h1>
       </React.Fragment>
     );
   }
